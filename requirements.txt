@@ -1,1 +1,48 @@
-steamlit
+steamlit# Core Streamlit Framework
+streamlit
+
+# Data Processing and Analysis
+pandas
+numpy
+
+# Interactive Plotting and Visualization
+plotly
+
+# Additional Dependencies (if needed for extended functionality)
+# Uncomment the following if you plan to add more features:
+
+# For advanced data manipulation
+scipy
+
+# For machine learning capabilities
+scikit-learn
+
+# For additional statistical functions
+statsmodels
+
+# For image processing (if adding image features)
+Pillow
+
+# For date/time handling (usually included with Python)
+python-dateutil
+
+# For additional styling and themes
+streamlit-option-menu
+streamlit-elements
+
+# For database connectivity (if needed)
+sqlalchemy
+psycopg2-binary  # for PostgreSQL
+pymongo          # for MongoDB
+
+# For API integrations (if needed)
+requests
+
+# For enhanced data export capabilities
+openpyxl         # for Excel file handling
+xlsxwriter       # for Excel writing
+
+# Development and Testing (optional)
+pytest
+black
+flake8
